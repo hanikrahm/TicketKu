@@ -1,0 +1,31 @@
+{
+  "cwd": "/home/geraldo/Desktop/Personal/TicketKu",
+  "type": [
+    "cordova"
+  ],
+  "name": "TicketKu",
+  "pkg": "io.framework7.TicketKu",
+  "framework": "vue",
+  "template": "tabs",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "cordova": {
+    "folder": "cordova",
+    "platforms": [
+      "android"
+    ],
+    "plugins": [
+      "cordova-plugin-statusbar",
+      "cordova-plugin-keyboard",
+      "cordova-plugin-splashscreen"
+    ]
+  },
+  "theming": {
+    "customColor": true,
+    "color": "#424e63",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}

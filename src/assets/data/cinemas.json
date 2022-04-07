@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Plaza Senayan XXI",
+		"address": "Plaza Senayan P 5 Jl. Asia Afrika",
+		"time_slot": [
+			"17:00",
+			"18:30",
+			"20:00",
+			"21.30"
+		]
+	},
+	{
+		"name": "City Plaza Jatinegara XXI",
+		"address": "Jalan Matraman Raya No. 173-175 Lt.5 Jakarta Timur 13310",
+		"time_slot": [
+			"17:00",
+			"18:30",
+			"20:00",
+			"21.30"
+		]
+	},
+	{
+		"name": "AEON Mall JGC CGV",
+		"address": "AEON Mall (Jakarta Garden City)",
+		"time_slot": [
+			"14:50",
+			"18:30",
+			"20:10"
+		]
+	},
+	{
+		"name": "Mangga Dua Square CINEPOLIS",
+		"address": "Mangga Dua Square Lt 3 Hall A",
+		"time_slot": [
+			"13:50",
+			"18:45",
+			"20.40"
+		]
+	},
+	{
+		"name": "Citra XXI",
+		"address": "Mall Ciputra Lantai 5 Jl. Arteri S. Parman - Grogol Jakarta Barat",
+		"time_slot": [
+			"13:15",
+			"18:00"
+		]
+	},
+	{
+		"name": "Green Pramuka Mall CGV",
+		"address": "Green Pramuka Square, Jl. Jend. Ahmad Yani Kav. 49",
+		"time_slot": [
+			"17:00",
+			"18:30",
+			"20:00",
+			"21.30"
+		]
+	},
+	{
+		"name": "Kelapa Gading XXI",
+		"address": "Mall Kelapa Gading 3, LT. 3",
+		"time_slot": [
+			"17:00",
+			"18:30",
+			"20:20",
+			"21.30"
+		]
+	}
+]

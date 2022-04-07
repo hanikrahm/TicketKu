@@ -1,0 +1,49 @@
+{
+	"other":[
+		{
+			"name": "Spider-Man: No Way Home",
+			"quantity": 5,
+			"location": "Kemang Village XXI",
+			"date": "Tuesday, 4 Januari 2022 | 18:30",
+			"state": "Pait",
+			"poster_link": "https://www.themoviedb.org/t/p/original/1gxZrx9gL9ov2c1NpXimEUzMTmh.jpg",
+			"badge_color": "blue"
+		},
+		{
+			"name": "Cinta Pertama, Kedua & Ketiga",
+			"quantity": 2,
+			"location": "Kelapa Gading XXI",
+			"date": "Monday, 3 Januari 2022 | 20:20",
+			"state": "Pait",
+			"poster_link": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jCZa5iMOMOXkLZX8pzfQkcPPYmD.jpg",
+			"badge_color": "blue"
+		},
+		{
+			"name": "SING 2",
+			"quantity": 4,
+			"location": "AEON Mall JGC CGV",
+			"date": "saturday, 1 Januari 2022 | 13:25",
+			"state": "Finished",
+			"poster_link": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+			"badge_color": "green"
+		},
+		{
+			"name": "Teka-Teki Tika",
+			"quantity": 2,
+			"location": "Kelapa Gading XXI",
+			"date": "Friday, 31 Desember 2021 | 20:20",
+			"state": "Finished",
+			"poster_link": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rp0GTDscf4mqR8mvH5r5XMPwseb.jpg",
+			"badge_color": "green"
+		},
+		{
+			"name": "Bus Om Bebek",
+			"quantity": 1,
+			"location": "Kelapa Gading XXI",
+			"date": "Friday, 31 Desember 2021 | 18:30",
+			"state": "Canceled",
+			"poster_link": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AtOPDh4wzbqLczLPOX5QxWnBxE1.jpg",
+			"badge_color": "red"
+		}
+	]
+}
